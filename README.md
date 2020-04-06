@@ -2,7 +2,7 @@
 
 Please check out Demo.ipynb
 
-By translating images into timeseries, we show that it is possible to classify 2D shapes in a scale, rotation, and translation invariant manner while only having seen a single example of each class.
+By translating images into timeseries, we show that it is possible to classify 2D shapes in a scale, rotation, and translation invariant manner while only requiring a single example image from each training class.
 
 Requires khiva, see installation instructions from https://github.com/shapelets/khiva-python
 
