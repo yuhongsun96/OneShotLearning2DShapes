@@ -1,8 +1,8 @@
 # One Shot Learning for 2D Shapes
 
-Please check out Demo.ipynb
+**Please check out Demo.ipynb**
 
-By translating images into timeseries, we show that it is possible to classify 2D shapes in a scale, rotation, and translation invariant manner while only requiring a single example image from each training class.
+By translating images into timeseries, we show that it is possible to classify 2D shapes in a scale, rotation, and translation invariant manner while only requiring a single training image from each class.
 
 Requires khiva, see installation instructions from https://github.com/shapelets/khiva-python
 
